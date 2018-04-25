@@ -1,7 +1,7 @@
 # FYPWebsiteSafetyforChildren
 Educating Internet Safety to Children through Video Games
 
-- Project Abstract -
+Project Abstract
 
 The Internet has changed humanity in countless ways. The ability to send and receive information instantly has virtually nullified the boundaries of communication which existed just a few decades ago. However, with the rise of technology comes the ability to exploit and misuse it. The Internet now carries misinformation and scam attempts such as fake news and phishing. 
 
